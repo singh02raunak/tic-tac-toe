@@ -1,0 +1,9 @@
+ordered list for semantic purpose
+
+75- isolation
+
+
+state should be update based on previous state 
+
+state lifting give example of tic tac toe
+avoid unnecessary state use computed value or derieved from props
